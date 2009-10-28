@@ -12,3 +12,7 @@ To download a copy of the latest (HEAD) version go to [github.com/cpjobling/Prom
 
 More detailed documentation will follow.
 
+
+## Welcome Tony
+
+Tony Gao joined the development team in October 2009.
